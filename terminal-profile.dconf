@@ -1,0 +1,23 @@
+[/]
+allow-bold=true
+background-color='#0E0E10101919'
+background-transparency-percent=8
+bold-color='#FFFFFAFAF4F4'
+bold-color-same-as-fg=true
+cursor-background-color='#FFFF00001818'
+cursor-colors-set=true
+cursor-foreground-color='#0E0E10101919'
+custom-command=''
+font='MesloLGS NF 13'
+foreground-color='#FFFFFAFAF4F4'
+highlight-background-color='rgb(252,252,252)'
+highlight-colors-set=false
+login-shell=false
+palette=['rgb(35,35,35)', 'rgb(255,0,15)', 'rgb(140,225,11)', 'rgb(255,185,0)', 'rgb(8,142,190)', 'rgb(109,67,166)', 'rgb(0,216,235)', 'rgb(255,255,255)', 'rgb(68,68,68)', 'rgb(255,39,64)', 'rgb(171,225,91)', 'rgb(255,210,66)', 'rgb(0,146,255)', 'rgb(154,95,235)', 'rgb(103,255,240)', 'rgb(255,255,255)']
+use-custom-command=false
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+use-transparent-background=true
+visible-name='Argonaut'

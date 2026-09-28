@@ -1,0 +1,6 @@
+grand-theft-focus@zalckos.github.com
+blur-my-shell@aunetx
+ding@rastersoft.com
+tiling-assistant@ubuntu.com
+ubuntu-appindicators@ubuntu.com
+ubuntu-dock@ubuntu.com
